@@ -1,0 +1,13 @@
+img, video, figure, embed{
+	max-width: 100%;
+h1{
+	border-top: 
+}
+.box{
+	width: 200px;
+	float: left;
+	margin-right: 24px;
+}
+.ibr-cell{
+	width: 100px;
+}
